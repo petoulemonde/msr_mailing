@@ -4,12 +4,12 @@ Ce projet part d'un constat : des questions passionnantes sont posées chaque jo
 J'ai donc souhaitez proposer une sorte de zone de stockage, d'une information claire et mise en forme.
 
 En pratique, qu'est-ce que ça veut dire ?
-Des professeurs proposent aujourd'hui leur cours directement en ligne grâce à Github. J'ai donc repris cette idée, pour proposer des notes colaboratives, portant sur la statisitques et l'épidémiologie, autant théorique (<u>Exemple</u> : le concept de l'approche bayésienne) que pratique (<u>Exemple</u> : coder uen régression logistique multiniveau dans R).
+Des professeurs proposent aujourd'hui leur cours directement en ligne grâce à Github. J'ai donc repris cette idée, pour proposer des notes colaboratives, portant sur la statisitques et l'épidémiologie, autant théorique (exemple : le concept de l'approche bayésienne) que pratique (exemple : coder uen régression logistique multiniveau dans R).
 Collaboratives car je ne vais pas pouvoir écrire une encyclopédie de statistiques tout seul, l'objectif est que chacun rédige des notes sur les sujets qu'ils lui ont posés questions, et ceci pour 2 raisons : 
 - Garder une trace de ses recherches, avec une accessibilité totale puisque stocké en ligne gratuitement,
 - Proposer aux autres du master ses notes pour que demain si une personne a le même problème, elle trouve la soution aisément grâce à vous.
 
-Le périmètre de ce projet est vaste : tout ce qui touche de prêt ou de loin à ce qui a été enseigné dans notre master 2 en commun, et si vous le souhaitez de façon plus large tout ce qui touche aux statistiques et à l'épidéiologie.
+Le périmètre de ce projet est vaste : tout ce qui touche de près ou de loin à ce qui a été enseigné dans notre master 2 en commun, et si vous le souhaitez de façon plus large tout ce qui touche aux statistiques et à l'épidémiologie.
 
 Ce projet ne vient en rien remplacer la mailing de master. Ce projet a plutôt pour but de centraliser les questions et les réponses faites sur cette mailing. 
 Lorsque vous posez une questions et que vous avez eu une réponse, je vous invite à prendre un peu de temps pour faire une note des informations que vous avez collectées, pour aider les autres.
@@ -28,7 +28,7 @@ Un manifeste simple, pour un projet ambitieux.
 
 Vous avez 2 solutions : 
 - Soit vous recherchez un sujet (par exemple : *Imputation*). La solution la plus simple est de naviguer dans les dossiers pour trouver ce que vous cherchez,
-- Soit vous cherchez un fichier en particulier, que vous savez existant (<u>exemple</u> : le fichier sur le package mice). Cliquer sur "Go to file", et faites votre recherche de fichier.
+- Soit vous cherchez un fichier en particulier, que vous savez existant (exemple : le fichier sur le package mice). Cliquer sur "Go to file", et faites votre recherche de fichier.
 
 Le site Github propose d'emblée un lecteur de fichier markdown, donc pas besoin de télécharger le fichier, vous avez simplement besoin de cliquer sur le fichier pour le consulter.
 Si vous souhaiteze télécharger un fichier, cliquez dessu pour l'ouvrir, puis sur *Download* en haut à droite de la fenêtre de visualisation.
@@ -61,7 +61,7 @@ Par curiosité, je relirai la note avant de la publier, et vous ferez un retour 
 
 <u>Les soucis rencontrés</u> : 
 Vous ne connaissez pas markdown ?
-Aucun soucis ! Vous pouvez rédiger sur word ou au format .txt, et me l'envoyer à <pierre-etienen.toulemonde@outlook.com>. Je m'occuperai de de le remettre au format markdown.
+Aucun soucis ! Vous pouvez rédiger sur word ou au format .txt, et me l'envoyer à <pierre-etienne.toulemonde@outlook.com>. Je m'occuperai de de le remettre au format markdown.
 
 Si vous choisissez cette option, votre note risque de mettre un peu de temps à être publiée, le temps pour moi de la retaper.
 
